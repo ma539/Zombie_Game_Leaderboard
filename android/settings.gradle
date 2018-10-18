@@ -1,0 +1,3 @@
+rootProject.name = 'Zombie_Game_Leaderboard'
+
+include ':app'
